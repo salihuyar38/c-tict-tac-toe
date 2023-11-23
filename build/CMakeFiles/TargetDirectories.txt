@@ -1,0 +1,3 @@
+/u/halle/usa/home_at/c++_projects/tictactoe/build/CMakeFiles/my_game.dir
+/u/halle/usa/home_at/c++_projects/tictactoe/build/CMakeFiles/edit_cache.dir
+/u/halle/usa/home_at/c++_projects/tictactoe/build/CMakeFiles/rebuild_cache.dir
